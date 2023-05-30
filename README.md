@@ -1,0 +1,4 @@
+# Create table Posts
+```sql
+
+```
